@@ -1,0 +1,8 @@
+pdftoppm -f 29 -l 30 -png PDFFile.pdf goalprefix
+
+Beispiel:
+pdftoppm -f 29 -l 30 -png Petersen_math_grundl_4.pdf slide
+
+Erzeugt 2 pngs slide-29.png und slide-30.png
+
+-f und -l sind optional
