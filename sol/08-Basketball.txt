@@ -1,0 +1,5 @@
+Mio wählt die 38. 
+- Wenn Sarah eine Zahl von 1-37 (37 Möglichkeiten) wählt, gewinnt Erika.
+- Wenn Sarah eine Zahl von 38-100 (63 Möglichkeiten) wählt, gewinnt Mio.
+
+Dafür muss man nicht rechnen! :)

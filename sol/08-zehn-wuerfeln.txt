@@ -1,0 +1,5 @@
+relative Häufigkeit einer Zahl aus 1...10, die kleiner als 6 und gerade ist:
+
+2/10=1/5
+
+Das Ereignis tritt nur bei den Zahlen 2 und 4 ein.

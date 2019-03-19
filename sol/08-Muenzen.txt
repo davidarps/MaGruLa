@@ -1,0 +1,4 @@
+Vier Möglichkeiten: KK, KZ, ZK, ZZ
+
+Alle vier gleich wahrscheinlich, zwei davon haben genau einmal Kopf.
+Also ist das Ergebnis 2/4=1/2

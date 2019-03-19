@@ -1,0 +1,5 @@
+Es gibt alle 4 Jahre ein Schaltjahr, also einen 29. Februar.
+Ausnahmen (alle 100 Jahre, 400 Jahre, usw.) lassen wir außen vor.
+
+Dann haben 4 aufeinander folgende Jahre 3*365+1*366=1461 Tage
+Den 29.2. gibt es alle 4 Jahre, die Wahrscheinlichkeit, dann Geburtstag zu haben, ist also ca. 1/1461.

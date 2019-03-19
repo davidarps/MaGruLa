@@ -1,0 +1,4 @@
+Wahrscheinlichkeit für mehr als 25 Bonbons: 5/30=1/6
+Wahrscheinlichkeit für weniger als 10 Bonbons: 9/30=3/10.
+
+5/30 + 9/30 = 14/30 = 7/15

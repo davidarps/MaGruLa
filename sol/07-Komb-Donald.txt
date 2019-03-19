@@ -1,0 +1,22 @@
+### Aufgabe Donald Duck:
+
+Scrooge McDuck stirbt unerwartet und nimmt das Codewort zu seiner Schatzkammer mit ins Grab. Donald weiß nur, dass der Code 5-stellig ist und genau 3 Ziffern enthält, unter denen die Ziffern 0 und 4 nicht vorkommen. Wie viele Codewörter muss Donald jetzt im schlimmsten Fall ausprobieren?
+
+    a) 8400
+    b) 7200
+    c) 8600
+    d) 6700
+    
+[Lösung](sol/07-Komb-Donald.txt)
+
+
+
+3 Ziffern aus dem Bereich 5-9
+
+also 2 Ziffern aus dem Bereich 0-4
+
+Aufgabe in zwei Teile zerlegen:
+
+1. Auf wie viele Arten können die Bereiche 0-4,5-9 kombiniert werden, wenn die Reihenfolge eine Rolle spielt und 3 Ziffern aus 5-9 sowie 2 Ziffern aus 0-4 kommen?
+
+n=2, k=5, mit Wiederho

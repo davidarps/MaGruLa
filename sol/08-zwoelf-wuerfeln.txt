@@ -1,0 +1,6 @@
+Die Aussage ist falsch. sie muss 2 mal 6 würfeln. 
+
+Mit einem Würfel eine 6 zu würfeln, hat eine Wahrscheinlichkeit von 1/6.
+Die Wahrscheinlichkeit für zwei Sechsen ist also (1/6)^2=1/36.
+
+Achtng: Bei Zahlen, die man mit mehreren Kombinationen aus zwei Würfeln erreichen kann (3-11), muss man anders rechnen. Siehe dazu das Schaubild auf der Folie.
