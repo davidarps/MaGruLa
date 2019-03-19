@@ -1,0 +1,3 @@
+b) 10000:
+
+Für jede Stelle 10 Möglichkeiten. 10*10*10*10=10000

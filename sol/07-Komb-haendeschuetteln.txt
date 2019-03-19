@@ -1,0 +1,19 @@
+12 Personen p1...p12
+
+p1 schuettelt p2-p12 die Hand: 11
++
+p2 schuettelt p3-p12 die Hand: 10
++
+p3 schuettelt p4-p12 die Hand: 9
++
+p4 schuettelt p5-p12 die Hand. 8
++
+p5 schuettelt p6-p12 die Hand: 7
++
+...
++
+p11 schuettelt p12 die Hand: 1
+
+1+2+3+...+11=66
+
+Diese Aufgabe passt nicht ins Schema der vier im Noteboook besprochenen Aufgabentypen. Wer das gemerkt hat: Gut! Das soll im echten Leben wieder vorkommen :)

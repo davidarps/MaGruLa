@@ -1,0 +1,4 @@
+(10 ueber 8)*(10 ueber 4) = 9450
+
+
+Reihenfolge egal, kein Zurücklegen - aber zwei voneinander unabhängige Stufen, die kombiniert werden.

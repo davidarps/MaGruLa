@@ -1,0 +1,5 @@
+Ein Warhol, ein Picasso: 5*7 Möglichkeiten
+Ein Warhol, ein Kandinsky: 5*11
+ein Picasso, ein Kandinsky: 7*11
+
+5*7+5*11+7*11 = 167

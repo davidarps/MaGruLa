@@ -1,0 +1,5 @@
+720 = 10*9*8
+
+ohne Zurücklegen (unterschiedliche Ziffern)
+mit Beachtung der Reihenfolge
+selbe Erklaerung wie das Pferderennen-Beispiel auf den Folien

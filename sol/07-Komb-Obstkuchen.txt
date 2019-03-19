@@ -1,0 +1,4 @@
+Reihenfolge relevant, kein Zurücklegen
+
+
+(n über k) *k! mit n=10,k=3 gibt 120* 3! = 720
